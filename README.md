@@ -1,2 +1,2 @@
-# front-end-drafts
-Some Drafts for any purposes
+# front-end
+Some Front-End drafts for any purposes
